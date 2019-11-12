@@ -1,0 +1,3 @@
+[submodule "external/puyotools"]
+	path = external/puyotools
+	url = https://github.com/nickworonekin/puyotools
